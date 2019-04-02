@@ -1,5 +1,5 @@
 # Iqro Android
-Unfinished iqro android project
+<b>Unfinished</b> iqro android project
 
 Iqro merupakan metode belajar <b>Al-Qur'an</b> yang sangat populer di Indonesia, hampir seluruh anak di Indonesia belajar dengan metode iqro,
 aplikasi dibuat bertujuan untuk membantu anak-anak lebih mudah belajar iqro dengan gadget mereka dan untuk orang tua / pengajar juga dapat menggunakan aplikasi ini dengan lebih interaktif.
