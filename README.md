@@ -12,15 +12,15 @@ aplikasi dibuat bertujuan untuk membantu anak-anak lebih mudah belajar iqro deng
 #### Fitur
 - Untuk Anak
 
-anak-anak dapet mulai membaca sendiri, karena terdapat informasi makhroj huruf dan audio huruf tersebut
+anak-anak dapat mulai membaca sendiri, karena terdapat informasi makhroj huruf dan audio huruf tersebut.
 
 <img src="page5.jpeg" width="200" alt="iqro android"></img>
 <img src="page6.jpeg" width="200" alt="iqro android"></img>
 
 - Untuk Orang tua / Pengajar
 
-Orang tua atau pengajar dapat mengunakan aplikasi iqro ini untuk mengajar dengan interaktif, diaplikasi ini terdapat fitur list anak yang belajar sehingga tersimpan status bacaan masing-masing anak saat ini sudah iqro brapa.
-Dan juga terpadat fitur penilaian, jadi orang tua atau pengajar dapat menilai bacaan anak apakah kurang,cukup atau baik pada setiap sectionnya (1 halaman terdapat banyak section) kemudia diakhir section atau ketika ganti halaman akan ada total nilai dan juga terdapat bintang layaknya bermain game, ini dapat digunakan orang tua / pengajar sebagai pengambilan keputasan apakan sang anak bisa lanjut kehalaman berikutnya atau tidak.
+Orang tua atau Pengajar dapat mengunakan aplikasi iqro ini untuk mengajar dengan interaktif, diaplikasi ini terdapat fitur daftar anak yang belajar sehingga tersimpan status bacaan masing-masing anak saat ini sudah iqro brapa.
+Dan juga terpadat fitur penilaian, jadi Orang tua atau Pengajar dapat menilai bacaan anak apakah kurang,cukup atau baik pada setiap sectionnya (1 halaman terdapat banyak section) kemudian diakhir section atau ketika ganti halaman akan ada total nilai dan juga terdapat bintang layaknya bermain game, ini dapat digunakan Orang tua / Pengajar sebagai pengambilan keputusan apakah  sang anak bisa lanjut kehalaman berikutnya atau tidak.
 
 
 <img src="page7.jpeg" width="200" alt="iqro android"></img>
